@@ -1,0 +1,11 @@
+{"intents":[
+    {"tag": "greeting",
+   "patterns":  ["hello","hi","good day", "Greeting","how's it going"],
+   "responses":["hello guy!","Can i help you?"]},
+     {"tag": "name",
+   "patterns":  ["what your name?","the name","who are you"],
+   "responses":["My name Lian","I'm Lian Winter"]},
+      {"tag": "bye",
+   "patterns":  ["cya","see you later","good bye", "bye"],
+   "responses":["I hope meeting you in someday","Bye you!"]}
+]}
